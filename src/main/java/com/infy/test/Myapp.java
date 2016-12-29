@@ -8,5 +8,7 @@ public class Myapp {
 		System.out.println("Welcome to Basket Team***");
 		
 	}
-
+public void sayMorning(){
+	System.out.println("********");
+}
 }
