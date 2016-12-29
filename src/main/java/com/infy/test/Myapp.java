@@ -9,6 +9,7 @@ public class Myapp {
 		
 	}
 public void sayMorning(){
+	
 	System.out.println("********");
 }
 }
